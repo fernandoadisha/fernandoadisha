@@ -1,5 +1,7 @@
 ### Hi there I'm Adhisha Fernando 👋
 
+Dude who's trying to improve
+
 <!--
 **fernandoadisha/fernandoadisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
