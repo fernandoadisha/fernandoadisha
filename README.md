@@ -2,7 +2,7 @@
 
 Dude who's trying to improve
 
-- 🔭 I’m currently working on my Acadamics in my Final Year or undergrat studies
+- 🔭 I’m currently working on my Acadamics in my Final Year of undergrat studies
 
 <!--
 **fernandoadisha/fernandoadisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
