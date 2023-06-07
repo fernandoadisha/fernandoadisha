@@ -1,5 +1,7 @@
 ### Hi there I'm Adhisha Fernando 👋
 
+![](https://freeimage.host/i/H4G74Bs)
+
 Dude who's trying to improve
 
 - 🔭 I’m currently working on my Acadamics in my Final Year of undergrat studies
