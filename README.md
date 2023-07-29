@@ -4,7 +4,7 @@
 
 Dude who's trying to improve
 
-- 🔭 I’m recently completed my degree in BSc Computer Science 
+- 🔭 I recently completed my degree in BSc Computer Science 
 
 <!--
 **fernandoadisha/fernandoadisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
