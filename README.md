@@ -2,7 +2,6 @@
 
 ![](https://iili.io/H4G74Bs.gif)
 
-Dude who's trying to improve
 
 - 🔭 I recently completed my degree in BSc Computer Science
 - 🤔 I’m looking for help with starting my carrier as Software Engineer
