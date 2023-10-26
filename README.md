@@ -4,7 +4,7 @@
 
 
 - 🔭 I recently completed my degree in BSc Computer Science
-- 🤔 I’m looking for help with starting my carrier as Software Engineer
+- 🤔 I’m looking for help with starting my career as Software Engineer
 - 📫 How to reach me: fernandoadisha007@gmail.com
 
 <!--
