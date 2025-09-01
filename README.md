@@ -3,7 +3,7 @@
 ![](https://iili.io/H4G74Bs.gif)
 
 
-- 🔭 I recently completed my degree in BSc Computer Science
+- 🔭 I completed my degree in BSc Computer Science
 - 🤔 I’m working as an Software Engineer
 - 📫 How to reach me: fernandoadisha007@gmail.com
 
