@@ -1,4 +1,4 @@
-### Hi there I'm Adhisha Fernando 👋
+### Hi there.. I'm Adhisha Fernando 👋
 
 ![](https://iili.io/H4G74Bs.gif)
 
