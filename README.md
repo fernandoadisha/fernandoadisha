@@ -6,7 +6,7 @@
 - 🔭 I completed my degree in BSc Computer Science
 - 🤔 I’m working as an Software Engineer
 - 📫 How to reach me: fernandoadisha007@gmail.com
-- I'm interest in IoT development 
+- ⚡I'm interest in IoT development 
 
 <!--
 **fernandoadisha/fernandoadisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
